@@ -33,3 +33,4 @@
 ## Logging
 
 * Server logs will be available on twitter-engine/artifacts/application.log
+* Currently only INFO logs are enabled
