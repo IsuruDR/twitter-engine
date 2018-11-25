@@ -1,0 +1,7 @@
+{
+  "backEndError" : "Error occurred while getting tweets",
+  "noTweetsFound" : "No tweets right now for the keyword. Try another or try later !!!",
+  "welcome" : "Welcome !!!",
+  "searchPlaceholder": "Search Here...",
+  "apiUrl": "http://localhost:8080/v1/api/search"
+}
